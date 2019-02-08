@@ -1,0 +1,16 @@
+{
+  "name": "the-matching-game-api",
+  "version": "1.0.0",
+  "description": "the backend for my matching game web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
